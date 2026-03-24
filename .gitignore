@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +206,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+=======
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
+>>>>>>> 9f6f918 (Mi aplicacion Django Girls, primer commit)
