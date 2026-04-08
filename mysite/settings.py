@@ -28,7 +28,7 @@ DEBUG = False
 ALLOWED_HOSTS = ['localhost', '127.0.0.1', '.pythonanywhere.com']
 
 
-# Application definition
+# Application definition    
 
 INSTALLED_APPS = [
     'django.contrib.admin',
@@ -118,7 +118,7 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 # STATIC_ROOT = BASE_DIR / 'static'
-STATIC_ROOT = '/home/danielramirez/mysite/static'
+STATIC_ROOT = '/home/danielramirez/mysite/static/css'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
